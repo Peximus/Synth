@@ -1,2 +1,2 @@
 # Synth
-a Simple Sine Wave Synth
+a Simple Sine Wave Synth in BETA
